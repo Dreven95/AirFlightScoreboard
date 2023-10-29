@@ -2,6 +2,7 @@ package com.dreven95.air_flight_scoreboard.entity;
 
 import jakarta.persistence.*;
 
+
 @Entity
 @Table(name = "air_flights")
 public class AirFlight {
